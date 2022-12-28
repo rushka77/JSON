@@ -1,5 +1,6 @@
-r1
-r2
-r3
-r4
-r5
+{
+	'name':Rusha _Nur,
+	'age': 43,
+	'pets': 2 humsters,
+	'salary': 200000
+}
