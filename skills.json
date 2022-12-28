@@ -1,3 +1,11 @@
 { 
-	'skills': teammate,communication,confident, QA_testing, API_testing, Git, Bag_reports, Test_cases, Check_lists
+	'skills':teammate,
+	communication,
+	confident,
+	QA_testing,
+	API_testing,
+	Git,
+	Bag_reports,
+	Test_cases,
+	Check_lists
 }
