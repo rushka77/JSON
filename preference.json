@@ -1,6 +1,6 @@
-{ 
-	'Movie': Home alone,
-	'Soap opera': Trojan_Imperia,
-	'Food': Besh,
-	'Season': Summer
+{
+	'movie':Home_alone,
+	'opera': Trojan_Imperia,
+	'food': Besh,
+	'season': Summer
 }
